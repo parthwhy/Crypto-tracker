@@ -1,0 +1,21 @@
+.changer{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+
+    
+}
+.changer button{
+    padding: 10px 20px;
+    background-color: orange;
+    margin: 10px 20px;
+    border-radius: 1%;
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    font-weight: bold;
+    cursor: pointer;
+}
+.hovereffect :hover {
+    background-color: rgb(30, 29, 29);
+
+}

@@ -1,0 +1,46 @@
+.ex-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(28, 22, 22);
+    margin-bottom: 1rem;
+    padding: 10px 
+}
+.ex-cards:hover{
+    background-color: rgb(0, 0, 0);
+}
+.heading:hover{
+    background-color: rgb(45, 24, 4);
+}
+.name{
+    width: 7rem;
+    font-weight:bold;
+    font-size:large;
+    text-transform:capitalize
+
+}
+.price{
+    width: 7rem;
+    font-weight:bold;
+    font-size:large;
+    text-transform:capitalize
+}
+.rank{
+    width: 7rem;
+    font-weight:bold;
+    font-size:large;
+    text-transform:capitalize
+}
+.heading{
+    
+ background-color: rgb(45, 24, 4);
+ margin: 0;
+ margin-top: 20px;
+ margin-bottom: 10px;
+}
+.abc{
+    margin-left: 0;
+    width: 70px;
+    
+
+}
